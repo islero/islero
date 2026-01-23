@@ -10,13 +10,11 @@ I am a **C++ Software Engineer** specializing in **Algorithmic Trading**, **High
 
 ### 🚀 Featured Projects
 
-#### 1. ⚡ [C++ High Performance Project]
-*My primary C++ project focusing on performance and efficiency.*
+#### 1. ⚡ [HTF-Nano-Tick](https://github.com/islero/HTF-Nano-Tick)
+*A high-performance tick capture system designed with lock-free data structures and zero-allocation patterns for HFT environments.*
 
 [![Stars](https://img.shields.io/github/stars/islero/HTF-Nano-Tick?style=flat-square&labelColor=343b41&color=blue)](https://github.com/islero/HTF-Nano-Tick)
 [![Forks](https://img.shields.io/github/forks/islero/HTF-Nano-Tick?style=flat-square&labelColor=343b41&color=orange)](https://github.com/islero/HTF-Nano-Tick)
-
-> Description of what this C++ project does and why it is technically impressive.
 
 ---
 
