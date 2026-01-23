@@ -44,11 +44,6 @@ I am a **C++ Software Engineer** specializing in **Algorithmic Trading**, **High
 [![Stars](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=social)]([https://github.com/islero/nautilus_trader](https://github.com/nautechsystems/nautilus_trader))
 [![Forks](https://img.shields.io/github/forks/nautechsystems/nautilus_trader?style=social)]([https://github.com/islero/nautilus_trader](https://github.com/nautechsystems/nautilus_trader))
 
----
-
-### 📊 GitHub Stats
-![Islero's GitHub stats](https://github-readme-stats.vercel.app/api?username=islero&show_icons=true&theme=radical&count_private=true)
-
 <!--
 **islero/islero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
