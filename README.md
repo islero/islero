@@ -1,6 +1,6 @@
 ### Hi there, I'm Yurii Dumanskyi 👋
 
-I am a **C++ Software Engineer** specializing in **Algorithmic Trading**, **High-Frequency Trading (HFT)**, and **Low Latency Systems**. My passion lies in building high-performance financial infrastructure.
+I am a **C++/Python Software Engineer** specializing in **Algorithmic Trading**, **High-Frequency Trading (HFT)**, and **Low Latency Systems**. My passion lies in building high-performance financial infrastructure.
 
 - 🔭 Focusing on **C++** and **System Architecture**
 - 💡 Interested in **Market Microstructure** and **Quantitative Finance**
