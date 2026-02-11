@@ -36,25 +36,18 @@ I am a **C++ Software Engineer** specializing in **Algorithmic Trading**, **High
 
 ---
 
+#### 4. 🛠️ [ICT-NT](https://github.com/islero/ICT-NT)
+*Python algorithmic trading framework built on NautilusTrader implementing ICT (Inner Circle Trader) concepts and Turtle Soup strategies with rule-based architecture, multi-timeframe analysis, and advanced position management.*
+
+[![Stars](https://img.shields.io/github/stars/islero/ICT-NT?style=flat-square&labelColor=343b41&color=blue)](https://github.com/islero/ICT-NT)
+[![Forks](https://img.shields.io/github/forks/islero/ICT-NT?style=flat-square&labelColor=343b41&color=orange)](https://github.com/islero/ICT-NT)
+
+---
+
 ### 🤝 Open Source Contributions
 
-#### 4. 🦀 [Nautilus Trader](https://github.com/islero/nautilus_trader)
+#### 5. 🦀 [Nautilus Trader](https://github.com/islero/nautilus_trader)
 *Contributor to the high-performance algorithmic trading platform written in Rust.*
 
 [![Stars](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=social)]([https://github.com/islero/nautilus_trader](https://github.com/nautechsystems/nautilus_trader))
 [![Forks](https://img.shields.io/github/forks/nautechsystems/nautilus_trader?style=social)]([https://github.com/islero/nautilus_trader](https://github.com/nautechsystems/nautilus_trader))
-
-<!--
-**islero/islero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
